@@ -1,4 +1,4 @@
-# ** Phases for the Project**
+# Phases for the Project
 
 ---
 
