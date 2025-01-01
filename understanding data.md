@@ -109,6 +109,72 @@ By identifying which isoforms are functional (protein-coding), scientists can:
 - Ignore the "noise" from non-functional sequences.
 
 ---
+### **What is GC Content?**
+GC content refers to the percentage of guanine (G) and cytosine (C) bases in a given RNA or DNA sequence. It is calculated as:
+
+\[
+\text{GC Content} = \frac{\text{Number of G's and C's in the sequence}}{\text{Total length of the sequence}} \times 100
+\]
+
+#### **Why is GC Content Important?**
+1. **Structural Stability**:
+   - G-C base pairs have three hydrogen bonds (compared to two for A-T pairs), making regions with high GC content more thermodynamically stable.
+   - High GC content in exons or regulatory regions might help maintain structural integrity during transcription and translation.
+
+2. **Biological Function**:
+   - GC content is often higher in coding regions (exons) than in non-coding regions.
+   - High GC content is associated with specific genomic functions, such as promoting efficient transcription and translation.
+
+3. **Evolutionary Relevance**:
+   - GC content varies between species, reflecting adaptation to environmental pressures or specific genome characteristics.
+
+---
+
+### **What are Exons?**
+Exons are segments of a gene that contain coding information. They are transcribed into RNA and, after the removal of introns (non-coding regions), are spliced together to form the final messenger RNA (mRNA).
+
+#### **Key Features of Exons**:
+1. **Protein-Coding Role**:
+   - Exons carry the sequences (codons) that are translated into amino acids, forming proteins.
+
+2. **Splicing**:
+   - Exons are joined during RNA splicing, where introns are removed from pre-mRNA. The sequence of exons defines the final protein structure.
+
+3. **Exon Count**:
+   - The number of exons varies between genes and isoforms. Isoforms with more exons often have more complex structures or regulatory roles.
+
+---
+
+### **What are Isoforms?**
+Isoforms are different versions of RNA transcripts produced from the same gene through a process called alternative splicing. Alternative splicing allows a single gene to produce multiple proteins with potentially different functions.
+
+#### **Key Features of Isoforms**:
+1. **Diversity**:
+   - Isoforms differ in the inclusion or exclusion of specific exons.
+   - This allows a single gene to contribute to multiple biological functions.
+
+2. **Regulation**:
+   - Isoforms are regulated based on tissue type, developmental stage, or environmental conditions.
+
+3. **Coding and Non-Coding Isoforms**:
+   - Some isoforms produce functional proteins, while others might regulate gene expression or serve structural roles.
+
+---
+
+### **GC Content and Exons in Isoforms**
+1. **Relationship**:
+   - Exons often have higher GC content than introns or intergenic regions due to their coding function.
+   - Isoforms with more exons might exhibit higher overall GC content.
+
+2. **Biological Implications**:
+   - Isoforms with high exon counts might be associated with more complex or functionally significant proteins.
+   - GC content might influence isoform stability, splicing efficiency, or translation accuracy.
+
+3. **Application to Data**:
+   - By analyzing GC content and exon count, we can infer the complexity and potential coding capacity of isoforms.
+   - High GC content and exon count in an isoform could indicate a biologically significant protein-coding function.
+
+In summary, GC content and exon count are critical features in understanding the structure and function of RNA isoforms, and their relationship provides insights into gene regulation and protein synthesis.
 
 ### **Summary of the Analogy**
 
